@@ -1,0 +1,114 @@
+INFO  - loading ...
+WARN  - Class not found: android.frameworkbridge.WmtHTML5Bridge$IFakeSurfaceViewBridge
+WARN  - Class not found: android.frameworkbridge.WmtHTML5Bridge$ITopbarBridge
+WARN  - Class not found: android.frameworkbridge.WmtHTML5Bridge$IControllerBridge
+WARN  - Class not found: android.frameworkbridge.WmtHTML5Bridge$ISurfaceViewBridge
+INFO  - processing ...
+ERROR - Inconsistent code in method: android.support.v4.view.ViewPager.arrowScroll(int):boolean
+INFO  - !!! TODO: merge try blocks in com.clouds.http.HttpFileDownloader.saveDownloadFile(int, java.lang.String, java.lang.String, java.lang.String, int, java.lang.String):com.clouds.object.FileDownloadinfo
+WARN  - Can't wrap try/catch for IF((r21_0 'jsonObject' org.json.JSONObject) != (null org.json.JSONObject)) then R:172345910211121314151617186278 else null, method: com.clouds.http.HttpParserJson.getAppFileInfo(org.json.JSONObject, java.lang.String):java.util.List<com.clouds.object.JSONFileInfo>
+WARN  - Can't wrap try/catch for IF((r14_0 'jsonObject' org.json.JSONObject) != (null org.json.JSONObject)) then R:52376782910111241923 else R:121, method: com.clouds.http.HttpParserJson.getCertificateInfo(org.json.JSONObject, java.lang.String):java.util.List<com.clouds.object.JSONFileInfo>
+WARN  - Can't wrap try/catch for IF((r18_0 'jsonObject' org.json.JSONObject) != (null org.json.JSONObject)) then R:1723455102111213146198 else null, method: com.clouds.http.HttpParserJson.getFileInfo(org.json.JSONObject, java.lang.String):java.util.List<com.clouds.object.JSONFileInfo>
+WARN  - Can't wrap try/catch for IF((r11_0 'jsonObject' org.json.JSONObject) != (null org.json.JSONObject)) then R:523264811 else R:19, method: com.clouds.http.HttpParserJson.getNotificationInfo(org.json.JSONObject, java.lang.String):java.util.List<com.clouds.object.NotificationInfo>
+WARN  - Can't wrap try/catch for IF((r14_0 'jsonObject' org.json.JSONObject) != (null org.json.JSONObject)) then R:52376782910111241923 else R:121, method: com.clouds.http.HttpParserJson.getScreenshotsInfo(org.json.JSONObject, java.lang.String):java.util.List<com.clouds.object.JSONFileInfo>
+WARN  - Can't wrap try/catch for IF((r9_0 'jsonObject' org.json.JSONObject) != (null org.json.JSONObject)) then R:523284106 else null, method: com.clouds.http.HttpParserJson.getUpdateInfo(org.json.JSONObject):com.clouds.http.HttpParserJson$Update
+WARN  - Can't wrap try/catch for IF((r10_0 'jsonObject' org.json.JSONObject) != (null org.json.JSONObject)) then R:1623384513714 else R:115, method: com.clouds.http.HttpParserJson.getVerinfoInfo(org.json.JSONObject):com.clouds.http.HttpParserJson$Verinfo
+ERROR - Inconsistent code in method: com.clouds.http.HttpParserJson.getAppFileInfo(org.json.JSONObject, java.lang.String):java.util.List<com.clouds.object.JSONFileInfo>
+ERROR - Inconsistent code in method: com.clouds.http.HttpParserJson.getCertificateInfo(org.json.JSONObject, java.lang.String):java.util.List<com.clouds.object.JSONFileInfo>
+ERROR - Inconsistent code in method: com.clouds.http.HttpParserJson.getFileInfo(org.json.JSONObject, java.lang.String):java.util.List<com.clouds.object.JSONFileInfo>
+ERROR - Inconsistent code in method: com.clouds.http.HttpParserJson.getNotificationInfo(org.json.JSONObject, java.lang.String):java.util.List<com.clouds.object.NotificationInfo>
+ERROR - Inconsistent code in method: com.clouds.http.HttpParserJson.getScreenshotsInfo(org.json.JSONObject, java.lang.String):java.util.List<com.clouds.object.JSONFileInfo>
+ERROR - Inconsistent code in method: com.clouds.http.JsonUtil.object2Json(java.lang.Object):java.lang.String
+ERROR - Inconsistent code in method: com.clouds.http.HttpParserJson.getUpdateInfo(org.json.JSONObject):com.clouds.http.HttpParserJson$Update
+ERROR - Inconsistent code in method: com.clouds.http.HttpParserJson.getVerinfoInfo(org.json.JSONObject):com.clouds.http.HttpParserJson$Verinfo
+ERROR - Inconsistent code in method: com.clouds.install.StandardFileInstall.standardDeleteApplication(java.lang.String, java.lang.String):void
+ERROR - Inconsistent code in method: com.clouds.install.StandardFileInstall.standardInstallApplication(java.lang.String, java.lang.String):void
+INFO  - !!! TODO: merge try blocks in com.clouds.util.FileManager.getOtherFile(java.lang.String, java.lang.String):void
+WARN  - Can't wrap try/catch for IF((r2_9 'fis' java.io.FileInputStream) != (null java.io.FileInputStream)) then R:21718 else null, method: com.clouds.util.FileManager.getOtherFile(java.lang.String, java.lang.String):void
+WARN  - Can't wrap try/catch for IF((r2_13 'fis' java.io.FileInputStream) != (null java.io.FileInputStream)) then R:24748 else null, method: com.clouds.util.FileManager.getOtherFile(java.lang.String, java.lang.String):void
+WARN  - Can't wrap try/catch for IF((r2_10 'fis' java.io.FileInputStream) != (null java.io.FileInputStream)) then R:22930 else null, method: com.clouds.util.FileManager.getOtherFile(java.lang.String, java.lang.String):void
+WARN  - Can't wrap try/catch for IF((r2_11 'fis' java.io.FileInputStream) != (null java.io.FileInputStream)) then R:23940 else null, method: com.clouds.util.FileManager.getOtherFile(java.lang.String, java.lang.String):void
+ERROR - Inconsistent code in method: com.clouds.util.FileManager.getOtherFile(java.lang.String, java.lang.String):void
+WARN  - Can't wrap try/catch for IF(((r11_0 'scrres' java.lang.String) == (null java.lang.String) || (wrap: boolean
+  0x000a: INVOKE  (r12_2 boolean) = (r11_0 'scrres' java.lang.String), (wrap: java.lang.String
+  0x0008: CONST_STR  (r12_1 java.lang.String) =  "") java.lang.String.equals(java.lang.Object):boolean type: VIRTUAL) != false)) then R:64517111191019 else R:120, method: com.clouds.widget.DeviceApplication.getScrres(android.content.Context):java.lang.String
+ERROR - Inconsistent code in method: com.clouds.widget.DeviceApplication.getScrres(android.content.Context):java.lang.String
+WARN  - Can't wrap try/catch for IF((r14_0 'force_shuffle' boolean) != false) then R:267 else null, method: com.wmt.MusicPlayer.MusicUtils.playAll(android.content.Context, long[], int, int, boolean):void
+WARN  - Can't wrap try/catch for IF((wrap: com.wmt.MusicPlayer.IMediaPlaybackService
+  0x0001: SGET  (r1_0 com.wmt.MusicPlayer.IMediaPlaybackService) =   com.wmt.MusicPlayer.MusicUtils.sService com.wmt.MusicPlayer.IMediaPlaybackService) != (null com.wmt.MusicPlayer.IMediaPlaybackService)) then R:2234582610 else R:19, method: com.wmt.MusicPlayer.MusicUtils.togglePartyShuffle():void
+ERROR - Inconsistent code in method: com.wmt.MusicPlayer.MusicUtils.playAll(android.content.Context, long[], int, int, boolean):void
+ERROR - Inconsistent code in method: com.wmt.MusicPlayer.MusicUtils.togglePartyShuffle():void
+INFO  - !!! TODO: merge try blocks in com.wmt.data.utils.BitmapUtils.createVideoThumbnail(java.lang.String):android.graphics.Bitmap
+WARN  - Can't wrap try/catch for IF((r29_0 'useCache' boolean) != false) then R:32315 else null, method: com.wmt.data.utils.ReverseGeocoder.lookupAddress(double, double, boolean):android.location.Address
+ERROR - Inconsistent code in method: com.wmt.data.utils.ReverseGeocoder.lookupAddress(double, double, boolean):android.location.Address
+ERROR - Inconsistent code in method: com.wmt.frameworkbridge.video.html5.HTML5MediaController.dispatchKeyEvent(android.view.KeyEvent):boolean
+ERROR - Inconsistent code in method: com.wmt.opengl.grid.BounceScroller.computeScrollOffset():boolean
+WARN  - Several 'all' handlers in try/catch block in com.wmt.opengl.TextureManager.clear():void
+WARN  - Can't wrap try/catch for IF((r4_1 'readChannel' java.nio.channels.SocketChannel) != (null java.nio.channels.SocketChannel)) then R:32325212628233161721926125 else R:122, method: com.wmt.remotectrl.ServerAcceptedChannelSelector.doRead(java.nio.channels.SelectionKey):void
+ERROR - Inconsistent code in method: com.wmt.remotectrl.ServerAcceptedChannelSelector.doRead(java.nio.channels.SelectionKey):void
+ERROR - Inconsistent code in method: com.wmt.remotectrl.ServerResponse.listenResponses():void
+WARN  - Can't wrap try/catch for IF((r14_0 'recv' android.net.LocalSocket) != (null android.net.LocalSocket)) then R:7234162142161181197222223126241292528271331 else R:132, method: com.wmt.util.Network3GListener.consumeAccept(android.net.LocalSocket):void
+WARN  - Can't wrap try/catch for IF((r15_0 'selectedKey' java.lang.String) != (null java.lang.String)) then R:3151623018 else null, method: com.wmt.util.Network3GListener.requetApn(android.net.LocalSocket):void
+ERROR - Inconsistent code in method: com.wmt.util.Network3GListener.consumeAccept(android.net.LocalSocket):void
+ERROR - Inconsistent code in method: com.wmt.util.Network3GListener.requetApn(android.net.LocalSocket):void
+ERROR - Inconsistent code in method: com.wmt.util.StringBitmap.computePaint(java.lang.String, com.wmt.util.StringBitmap$Config, int, int):android.graphics.Paint
+WARN  - Can't wrap try/catch for IF((r5_0 'bundleWhat' android.os.Bundle) != (null android.os.Bundle)) then R:223 else null, method: com.wmt.widget.weather.WeatherUtils.notifyUpdateFailure(android.os.Bundle):void
+WARN  - Can't wrap try/catch for IF((wrap: com.wmt.widget.weather.WeatherItem
+  0x0000: IGET  (r1_0 com.wmt.widget.weather.WeatherItem) = (r3_0 'this' com.wmt.widget.weather.WeatherUtils)  com.wmt.widget.weather.WeatherUtils.mWeatherItem com.wmt.widget.weather.WeatherItem) != (null com.wmt.widget.weather.WeatherItem)) then R:32318259 else R:17, method: com.wmt.widget.weather.WeatherUtils.sendDateChanged():void
+ERROR - Inconsistent code in method: com.wmt.widget.weather.WeatherUtils.getWeatherItem(android.content.Context):com.wmt.widget.weather.WeatherItem
+ERROR - Inconsistent code in method: com.wmt.widget.weather.WeatherUtils.notifyUpdateFailure(android.os.Bundle):void
+ERROR - Inconsistent code in method: com.wmt.widget.weather.WeatherUtils.sendDateChanged():void
+ERROR - Inconsistent code in method: android.support.v4.app.FragmentManagerImpl.moveToState(android.support.v4.app.Fragment, int, int, int, boolean):void
+ERROR - Inconsistent code in method: com.wmt.opengl.GLRootView.getStackTop():com.wmt.opengl.GLView
+ERROR - Inconsistent code in method: com.wmt.opengl.GLRootView.onFocusChanged(boolean):void
+ERROR - Inconsistent code in method: com.wmt.opengl.GLRootView.processKeyEvent(android.view.KeyEvent):boolean
+ERROR - Inconsistent code in method: com.wmt.opengl.GLRootView.removeFoucsView(com.wmt.opengl.GLView):void
+ERROR - Inconsistent code in method: com.wmt.util.BackgroundReceiverService.AnonymousClass_2.onReceive(android.content.Context, android.content.Intent):void
+ERROR - Inconsistent code in method: com.wmt.util.WmtGridView.touch_move(int, int):void
+ERROR - Inconsistent code in method: com.wmt.util.WmtGridView.bounce():void
+ERROR - Inconsistent code in method: com.wmt.util.WmtGridView.drawBackground(android.graphics.Canvas):void
+ERROR - Inconsistent code in method: com.wmt.util.WmtSurfaceView.RenderThread.drawBackground(android.graphics.Canvas):void
+ERROR - Inconsistent code in method: com.wmt.util.WmtSurfaceView.bounce():void
+ERROR - Inconsistent code in method: com.wmt.opengl.grid.GLGridView.makeFocusCenterVisible(int):void
+ERROR - Inconsistent code in method: com.wmt.data.LocalAlbum.getMediaItemById(android.content.ContentResolver, int, boolean, java.util.ArrayList):com.wmt.data.MediaItem[]
+ERROR - 39 errors occured in following nodes:
+ERROR -   Method: android.support.v4.app.FragmentManagerImpl.moveToState(android.support.v4.app.Fragment, int, int, int, boolean):void
+ERROR -   Method: android.support.v4.view.ViewPager.arrowScroll(int):boolean
+ERROR -   Method: com.clouds.http.HttpParserJson.getAppFileInfo(org.json.JSONObject, java.lang.String):java.util.List<com.clouds.object.JSONFileInfo>
+ERROR -   Method: com.clouds.http.HttpParserJson.getCertificateInfo(org.json.JSONObject, java.lang.String):java.util.List<com.clouds.object.JSONFileInfo>
+ERROR -   Method: com.clouds.http.HttpParserJson.getFileInfo(org.json.JSONObject, java.lang.String):java.util.List<com.clouds.object.JSONFileInfo>
+ERROR -   Method: com.clouds.http.HttpParserJson.getNotificationInfo(org.json.JSONObject, java.lang.String):java.util.List<com.clouds.object.NotificationInfo>
+ERROR -   Method: com.clouds.http.HttpParserJson.getScreenshotsInfo(org.json.JSONObject, java.lang.String):java.util.List<com.clouds.object.JSONFileInfo>
+ERROR -   Method: com.clouds.http.HttpParserJson.getUpdateInfo(org.json.JSONObject):com.clouds.http.HttpParserJson$Update
+ERROR -   Method: com.clouds.http.HttpParserJson.getVerinfoInfo(org.json.JSONObject):com.clouds.http.HttpParserJson$Verinfo
+ERROR -   Method: com.clouds.http.JsonUtil.object2Json(java.lang.Object):java.lang.String
+ERROR -   Method: com.clouds.install.StandardFileInstall.standardDeleteApplication(java.lang.String, java.lang.String):void
+ERROR -   Method: com.clouds.install.StandardFileInstall.standardInstallApplication(java.lang.String, java.lang.String):void
+ERROR -   Method: com.clouds.util.FileManager.getOtherFile(java.lang.String, java.lang.String):void
+ERROR -   Method: com.clouds.widget.DeviceApplication.getScrres(android.content.Context):java.lang.String
+ERROR -   Method: com.wmt.MusicPlayer.MusicUtils.playAll(android.content.Context, long[], int, int, boolean):void
+ERROR -   Method: com.wmt.MusicPlayer.MusicUtils.togglePartyShuffle():void
+ERROR -   Method: com.wmt.data.LocalAlbum.getMediaItemById(android.content.ContentResolver, int, boolean, java.util.ArrayList):com.wmt.data.MediaItem[]
+ERROR -   Method: com.wmt.data.utils.ReverseGeocoder.lookupAddress(double, double, boolean):android.location.Address
+ERROR -   Method: com.wmt.frameworkbridge.video.html5.HTML5MediaController.dispatchKeyEvent(android.view.KeyEvent):boolean
+ERROR -   Method: com.wmt.opengl.GLRootView.getStackTop():com.wmt.opengl.GLView
+ERROR -   Method: com.wmt.opengl.GLRootView.onFocusChanged(boolean):void
+ERROR -   Method: com.wmt.opengl.GLRootView.processKeyEvent(android.view.KeyEvent):boolean
+ERROR -   Method: com.wmt.opengl.GLRootView.removeFoucsView(com.wmt.opengl.GLView):void
+ERROR -   Method: com.wmt.opengl.grid.BounceScroller.computeScrollOffset():boolean
+ERROR -   Method: com.wmt.opengl.grid.GLGridView.makeFocusCenterVisible(int):void
+ERROR -   Method: com.wmt.remotectrl.ServerAcceptedChannelSelector.doRead(java.nio.channels.SelectionKey):void
+ERROR -   Method: com.wmt.remotectrl.ServerResponse.listenResponses():void
+ERROR -   Method: com.wmt.util.BackgroundReceiverService.AnonymousClass_2.onReceive(android.content.Context, android.content.Intent):void
+ERROR -   Method: com.wmt.util.Network3GListener.consumeAccept(android.net.LocalSocket):void
+ERROR -   Method: com.wmt.util.Network3GListener.requetApn(android.net.LocalSocket):void
+ERROR -   Method: com.wmt.util.StringBitmap.computePaint(java.lang.String, com.wmt.util.StringBitmap$Config, int, int):android.graphics.Paint
+ERROR -   Method: com.wmt.util.WmtGridView.bounce():void
+ERROR -   Method: com.wmt.util.WmtGridView.drawBackground(android.graphics.Canvas):void
+ERROR -   Method: com.wmt.util.WmtGridView.touch_move(int, int):void
+ERROR -   Method: com.wmt.util.WmtSurfaceView.RenderThread.drawBackground(android.graphics.Canvas):void
+ERROR -   Method: com.wmt.util.WmtSurfaceView.bounce():void
+ERROR -   Method: com.wmt.widget.weather.WeatherUtils.getWeatherItem(android.content.Context):com.wmt.widget.weather.WeatherItem
+ERROR -   Method: com.wmt.widget.weather.WeatherUtils.notifyUpdateFailure(android.os.Bundle):void
+ERROR -   Method: com.wmt.widget.weather.WeatherUtils.sendDateChanged():void
+ERROR - finished with errors

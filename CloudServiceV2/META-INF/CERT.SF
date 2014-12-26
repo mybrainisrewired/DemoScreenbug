@@ -1,0 +1,82 @@
+Signature-Version: 1.0
+Created-By: 1.0 (Android)
+SHA1-Digest-Manifest: M/ydrfOLYZh3l4iBVR+NdqfcQk4=
+
+Name: res/drawable-xhdpi/ic_launcher.png
+SHA1-Digest: UHl3IEcuAf/i+FGmuG09opVumSU=
+
+Name: res/drawable-hdpi/ic_launcher.png
+SHA1-Digest: vP+OGLocMuIdrhTVDYURg3U8ucg=
+
+Name: assets/scriptcmd_wmt_blk_nand_logo_jb.wmt!sh
+SHA1-Digest: fb7zX4DgcmGfTMQrRv1Prmg4L1c=
+
+Name: assets/scriptcmd_wmt_mount_rw.wmt!sh
+SHA1-Digest: 1hu8X8GODbnrd1a/YMly8sDnWc4=
+
+Name: resources.arsc
+SHA1-Digest: 53tZVM8mhXNA3DF3kEhOGgl3NtM=
+
+Name: assets/scriptcmd_wmt_mount_ro.wmt!sh
+SHA1-Digest: AGW+Lr4Rg+v7a+OQ4XCG/Gy+B9c=
+
+Name: assets/scriptcmd_wmt_blk_nand_logo_ics.wmt!sh
+SHA1-Digest: 7U3x0biM8O32qaSvb1/l6LB1IKE=
+
+Name: res/drawable-ldpi/ic_launcher.png
+SHA1-Digest: bMibfNqZRu7DVz2eR0O+ZpPeg4A=
+
+Name: assets/scriptcmd_wmt_cacerts.wmt!sh
+SHA1-Digest: pHqnlzVuryKdlRsF0IsQwU8lgPo=
+
+Name: assets/scriptcmd_wmt_ota_install_system.wmt!sh
+SHA1-Digest: JtWoqyKAXIA0vmT/Sf+Sxs8avXo=
+
+Name: assets/scriptcmd_wmt_homepage.wmt!sh
+SHA1-Digest: zgJTHZovW1FguPzAAAYDBkx8rpc=
+
+Name: AndroidManifest.xml
+SHA1-Digest: 6zy6dOQTa1SHCnIqDVvQ1c/DTEw=
+
+Name: assets/scriptcmd_wmt_delete_appinfo.wmt!sh
+SHA1-Digest: GbXs9IekhhjymtfQsRo2KCI13CM=
+
+Name: assets/scriptcmd_wmt_bhp.wmt!sh
+SHA1-Digest: A7CY/FthrOzPNAiuvpzUQlhSsDY=
+
+Name: assets/scriptcmd_wmt_app_install_user.wmt!sh
+SHA1-Digest: ggljXrt8oi9eMHbi2SECcm0issA=
+
+Name: assets/scriptcmd_wmt_app_rm_user.wmt!sh
+SHA1-Digest: wGEB4SfZeL8+s2xS50BXdO6Ku1I=
+
+Name: assets/scriptcmd_wmt_app_install_system.wmt!sh
+SHA1-Digest: fee3slHjzQ88aRoGXaXLKpBkZa4=
+
+Name: assets/scriptcmd_wmt_rm.wmt!sh
+SHA1-Digest: 6mg7V/Rovm41Xu6ku8vxlOm2w44=
+
+Name: classes.dex
+SHA1-Digest: bhDSx1SY7NAcIBfDivYqQ6zGGNA=
+
+Name: res/layout/push_message.xml
+SHA1-Digest: Ug8N07MsuSpaGHLCbNR6fAAI0A0=
+
+Name: lib/armeabi/libshellcmd.so
+SHA1-Digest: gd04YGJH31GP/34jAF/m4ML4xVA=
+
+Name: res/layout/clombile_main.xml
+SHA1-Digest: 4c6NTcLtGmOXyIzGXv9MxILPX7U=
+
+Name: res/drawable-mdpi/ic_launcher.png
+SHA1-Digest: bNgCecY+O/VUZlT3Wkiqpaohic4=
+
+Name: res/layout/activity_main.xml
+SHA1-Digest: 1lDgQX44WN4NZ7NRu5ZcOWecVf8=
+
+Name: assets/scriptcmd_wmt_boot_mov.wmt!sh
+SHA1-Digest: FW07Da/YVsnZ3daGMmwZtdz40i8=
+
+Name: res/menu/activity_main.xml
+SHA1-Digest: dfdVn4XaSbPBYUgQ7HugPYepM7Y=
+

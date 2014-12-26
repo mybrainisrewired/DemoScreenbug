@@ -1,0 +1,72 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android)
+
+Name: res/drawable-xhdpi/ic_launcher.png
+SHA1-Digest: iPq5jiLCmteSG0Pn+qnmEEAp4Nc=
+
+Name: assets/scriptcmd_wmt_app_install_user.wmt!sh
+SHA1-Digest: 7nbDy8CYmTbXqNuyjw5VFR8lV7Y=
+
+Name: assets/scriptcmd_wmt_bhp.wmt!sh
+SHA1-Digest: 9OuGP7yIf6fwMKA/MO00VbhNB8Y=
+
+Name: res/drawable-hdpi/ic_launcher.png
+SHA1-Digest: zpI16CFBwoGGr/oK3LjzLu4ppew=
+
+Name: assets/scriptcmd_wmt_app_install_system.wmt!sh
+SHA1-Digest: nKJFZFAcpxTbZscHiHT1DUicfJo=
+
+Name: assets/scriptcmd_wmt_app_rm_user.wmt!sh
+SHA1-Digest: wnpxQk1TOQOu2KLONheTyiEEnw0=
+
+Name: assets/scriptcmd_wmt_blk_nand_logo_jb.wmt!sh
+SHA1-Digest: lBINl7neEDHvAw6uDi0SvwrQlfs=
+
+Name: assets/scriptcmd_wmt_rm.wmt!sh
+SHA1-Digest: y90gJ51JYr8NEh8llumzR7bNyIw=
+
+Name: assets/scriptcmd_wmt_mount_rw.wmt!sh
+SHA1-Digest: jWgYTyiH55rugRc9EN+qEf1RWiY=
+
+Name: resources.arsc
+SHA1-Digest: 5yWTLL+GtnHcwVI54VUWyZtsh0w=
+
+Name: assets/scriptcmd_wmt_mount_ro.wmt!sh
+SHA1-Digest: uU0Jv1ThlZtDp3MIvermj/ulXqM=
+
+Name: classes.dex
+SHA1-Digest: GzISOQNVIIp8iYc/mwpKey7uDdI=
+
+Name: assets/scriptcmd_wmt_blk_nand_logo_ics.wmt!sh
+SHA1-Digest: VJmkwC47LqxOJGOoPL4yP+sqRWk=
+
+Name: res/drawable-ldpi/ic_launcher.png
+SHA1-Digest: 3LuNOutQ4/UTeOCH7Vla0N6UIAw=
+
+Name: assets/scriptcmd_wmt_cacerts.wmt!sh
+SHA1-Digest: 9EwGzmeu2gWmN91yfTK3DMOvE6Q=
+
+Name: assets/scriptcmd_wmt_homepage.wmt!sh
+SHA1-Digest: sihvdwFbwKsdsJm7zGxvu/gtFeY=
+
+Name: AndroidManifest.xml
+SHA1-Digest: 9dRru637+MvPWjbm0VLViref7FQ=
+
+Name: lib/armeabi/libshellcmd.so
+SHA1-Digest: uu9FkhnVWaA7HW7AGv31bU+kWHA=
+
+Name: res/drawable-mdpi/ic_launcher.png
+SHA1-Digest: l+fEslDiuJjbesMcyVYb8UxnWNg=
+
+Name: res/layout/activity_main.xml
+SHA1-Digest: A6EvbAuD9IcnhYYxlsC6QX+STmo=
+
+Name: assets/scriptcmd_wmt_boot_mov.wmt!sh
+SHA1-Digest: khmpgC8h6/5RYF7Eyb8H8O30rlo=
+
+Name: res/menu/activity_main.xml
+SHA1-Digest: N69TBCRDKv8j3FyAlWcLDUxzh30=
+
+Name: assets/scriptcmd_wmt_delete_appinfo.wmt!sh
+SHA1-Digest: OxK3WfvOruKG3edwbVgRqswoWHA=
+

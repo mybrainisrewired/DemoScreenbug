@@ -1,0 +1,29 @@
+INFO  - loading ...
+WARN  - Class not found: android.app.IApplicationController$Stub
+INFO  - processing ...
+ERROR - Inconsistent code in method: com.android.systemui.ExpandHelper.finishScale(boolean):void
+ERROR - Inconsistent code in method: com.android.systemui.recent.RecentTasksLoader.AnonymousClass_1.doInBackground(java.lang.Void[]):java.lang.Void
+WARN  - Can't wrap try/catch for IF((r12_1 'visible' boolean) != false) then R:35615 else R:3121316, method: com.android.systemui.statusbar.policy.LocationController.onReceive(android.content.Context, android.content.Intent):void
+ERROR - Inconsistent code in method: com.android.systemui.statusbar.policy.LocationController.onReceive(android.content.Context, android.content.Intent):void
+ERROR - Inconsistent code in method: com.android.systemui.statusbar.phone.PhoneStatusBar.disable(int):void
+ERROR - Inconsistent code in method: com.android.systemui.statusbar.phone.PhoneStatusBar.performDisableActions(int):void
+ERROR - Inconsistent code in method: com.android.systemui.statusbar.phone.PhoneStatusBar.performFling(int, float, boolean):void
+ERROR - Inconsistent code in method: com.android.systemui.statusbar.policy.NetworkController.updateDataIcon():void
+ERROR - Inconsistent code in method: com.android.systemui.usb.StorageNotification.setMediaStorageNotification(int, int, int, boolean, boolean, android.app.PendingIntent):void
+ERROR - Inconsistent code in method: com.android.systemui.usb.StorageNotification.setUsbStorageNotification(int, int, int, boolean, boolean, android.app.PendingIntent):void
+ERROR - Incorrect type for fill-array insn 0x0243, element type: ?[int, float], insn element type: float in method: com.android.systemui.statusbar.tablet.TabletStatusBar.makeStatusBarView():android.view.View
+ERROR - Incorrect type for fill-array insn 0x0265, element type: ?[int, float], insn element type: float in method: com.android.systemui.statusbar.tablet.TabletStatusBar.makeStatusBarView():android.view.View
+ERROR - Incorrect type for fill-array insn 0x0298, element type: ?[int, float], insn element type: float in method: com.android.systemui.statusbar.tablet.TabletStatusBar.makeStatusBarView():android.view.View
+ERROR - Incorrect type for fill-array insn 0x02ba, element type: ?[int, float], insn element type: float in method: com.android.systemui.statusbar.tablet.TabletStatusBar.makeStatusBarView():android.view.View
+ERROR - 13 errors occured in following nodes:
+ERROR -   Method: com.android.systemui.ExpandHelper.finishScale(boolean):void
+ERROR -   Method: com.android.systemui.recent.RecentTasksLoader.AnonymousClass_1.doInBackground(java.lang.Void[]):java.lang.Void
+ERROR -   Method: com.android.systemui.statusbar.phone.PhoneStatusBar.disable(int):void
+ERROR -   Method: com.android.systemui.statusbar.phone.PhoneStatusBar.performDisableActions(int):void
+ERROR -   Method: com.android.systemui.statusbar.phone.PhoneStatusBar.performFling(int, float, boolean):void
+ERROR -   Method: com.android.systemui.statusbar.policy.LocationController.onReceive(android.content.Context, android.content.Intent):void
+ERROR -   Method: com.android.systemui.statusbar.policy.NetworkController.updateDataIcon():void
+ERROR -   Method: com.android.systemui.statusbar.tablet.TabletStatusBar.makeStatusBarView():android.view.View
+ERROR -   Method: com.android.systemui.usb.StorageNotification.setMediaStorageNotification(int, int, int, boolean, boolean, android.app.PendingIntent):void
+ERROR -   Method: com.android.systemui.usb.StorageNotification.setUsbStorageNotification(int, int, int, boolean, boolean, android.app.PendingIntent):void
+ERROR - finished with errors

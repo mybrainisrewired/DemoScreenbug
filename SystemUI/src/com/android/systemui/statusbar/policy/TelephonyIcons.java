@@ -1,0 +1,28 @@
+package com.android.systemui.statusbar.policy;
+
+class TelephonyIcons {
+    static final int[][] DATA_1X;
+    static final int[][] DATA_3G;
+    static final int[][] DATA_4G;
+    static final int[][] DATA_E;
+    static final int[][] DATA_G;
+    static final int[][] DATA_H;
+    static final int[][] DATA_SIGNAL_STRENGTH;
+    static final int[][] TELEPHONY_SIGNAL_STRENGTH;
+    static final int[][] TELEPHONY_SIGNAL_STRENGTH_ROAMING;
+
+    static {
+        TELEPHONY_SIGNAL_STRENGTH = new int[][]{new int[]{2130837654, 2130837656, 2130837658, 2130837660, 2130837662}, new int[]{2130837655, 2130837657, 2130837659, 2130837661, 2130837663}};
+        TELEPHONY_SIGNAL_STRENGTH_ROAMING = new int[][]{new int[]{2130837654, 2130837656, 2130837658, 2130837660, 2130837662}, new int[]{2130837655, 2130837657, 2130837659, 2130837661, 2130837663}};
+        DATA_SIGNAL_STRENGTH = TELEPHONY_SIGNAL_STRENGTH;
+        DATA_G = new int[][]{new int[]{2130837624, 2130837624, 2130837624, 2130837624}, new int[]{2130837631, 2130837631, 2130837631, 2130837631}};
+        DATA_3G = new int[][]{new int[]{2130837621, 2130837621, 2130837621, 2130837621}, new int[]{2130837628, 2130837628, 2130837628, 2130837628}};
+        DATA_E = new int[][]{new int[]{2130837623, 2130837623, 2130837623, 2130837623}, new int[]{2130837630, 2130837630, 2130837630, 2130837630}};
+        DATA_H = new int[][]{new int[]{2130837625, 2130837625, 2130837625, 2130837625}, new int[]{2130837632, 2130837632, 2130837632, 2130837632}};
+        DATA_1X = new int[][]{new int[]{2130837620, 2130837620, 2130837620, 2130837620}, new int[]{2130837627, 2130837627, 2130837627, 2130837627}};
+        DATA_4G = new int[][]{new int[]{2130837622, 2130837622, 2130837622, 2130837622}, new int[]{2130837629, 2130837629, 2130837629, 2130837629}};
+    }
+
+    TelephonyIcons() {
+    }
+}
